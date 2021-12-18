@@ -1,0 +1,42 @@
+@model TS.LinhKienPC
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>LinhKienPC</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.LinhKienPCName)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.LinhKienPCName)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Price)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Price)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.HSXs)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.HSXs)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.type)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.type)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.LinhKienPCId">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

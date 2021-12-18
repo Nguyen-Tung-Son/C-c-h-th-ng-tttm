@@ -1,0 +1,24 @@
+@model TS.LKPC
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>LKPC</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.LKPCName)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.LKPCName)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.LKPCId">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

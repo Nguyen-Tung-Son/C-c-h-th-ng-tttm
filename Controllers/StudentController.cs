@@ -1,3 +1,4 @@
+using System.Data.Common;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -12,6 +13,10 @@ namespace TS.Controllers
     public class StudentController : Controller
     {
         private readonly Demo3Context _context;
+       /* public ActionResult Index()
+        {
+            return View(Db.Students.ToList());
+        }*/
 
         public StudentController(Demo3Context context)
         {

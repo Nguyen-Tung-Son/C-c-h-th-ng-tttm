@@ -13,4 +13,16 @@ using TS;
         }
 
         public DbSet<TS.Student> Student { get; set; }
+
+        public DbSet<TS.GiaTien> GiaTien { get; set; }
+
+        public DbSet<TS.HSX> HSX { get; set; }
+
+        public DbSet<TS.TinhNang> TinhNang { get; set; }
+
+        public DbSet<TS.KieuKhachHang> KieuKhachHang { get; set; }
+
+        public DbSet<TS.LKPC> LKPC { get; set; }
+
+        public DbSet<TS.LinhKienPC> LinhKienPC { get; set; }
     }

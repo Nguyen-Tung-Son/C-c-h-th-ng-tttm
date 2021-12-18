@@ -15624,8 +15624,28 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Demo3\\TS\\Views\\KieuKhachHang\\Edit.cshtml",
+      "TargetPath": "Views\\KieuKhachHang\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Demo3\\TS\\Views\\LKPC\\Details.cshtml",
+      "TargetPath": "Views\\LKPC\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Demo3\\TS\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Demo3\\TS\\Views\\KieuKhachHang\\Create.cshtml",
+      "TargetPath": "Views\\KieuKhachHang\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Demo3\\TS\\Views\\GiaTien\\Delete.cshtml",
+      "TargetPath": "Views\\GiaTien\\Delete.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15634,13 +15654,63 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Demo3\\TS\\Views\\TinhNang\\Index.cshtml",
+      "TargetPath": "Views\\TinhNang\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Demo3\\TS\\Views\\LinhKienPC\\Details.cshtml",
+      "TargetPath": "Views\\LinhKienPC\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Demo3\\TS\\Views\\Student\\Index.cshtml",
       "TargetPath": "Views\\Student\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Demo3\\TS\\Views\\TinhNang\\Edit.cshtml",
+      "TargetPath": "Views\\TinhNang\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Demo3\\TS\\Views\\GiaTien\\Index.cshtml",
+      "TargetPath": "Views\\GiaTien\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Demo3\\TS\\Views\\KieuKhachHang\\Index.cshtml",
+      "TargetPath": "Views\\KieuKhachHang\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Demo3\\TS\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Demo3\\TS\\Views\\TinhNang\\Create.cshtml",
+      "TargetPath": "Views\\TinhNang\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Demo3\\TS\\Views\\GiaTien\\Edit.cshtml",
+      "TargetPath": "Views\\GiaTien\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Demo3\\TS\\Views\\LKPC\\Create.cshtml",
+      "TargetPath": "Views\\LKPC\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Demo3\\TS\\Views\\KieuKhachHang\\Details.cshtml",
+      "TargetPath": "Views\\KieuKhachHang\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Demo3\\TS\\Views\\KieuKhachHang\\Delete.cshtml",
+      "TargetPath": "Views\\KieuKhachHang\\Delete.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15654,13 +15724,48 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Demo3\\TS\\Views\\LinhKienPC\\Create.cshtml",
+      "TargetPath": "Views\\LinhKienPC\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Demo3\\TS\\Views\\HSX\\Index.cshtml",
+      "TargetPath": "Views\\HSX\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Demo3\\TS\\Views\\Shared\\Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Demo3\\TS\\Views\\TinhNang\\Delete.cshtml",
+      "TargetPath": "Views\\TinhNang\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Demo3\\TS\\Views\\GiaTien\\Create.cshtml",
+      "TargetPath": "Views\\GiaTien\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Demo3\\TS\\Views\\Student\\Edit.cshtml",
       "TargetPath": "Views\\Student\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Demo3\\TS\\Views\\HSX\\Create.cshtml",
+      "TargetPath": "Views\\HSX\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Demo3\\TS\\Views\\LKPC\\Edit.cshtml",
+      "TargetPath": "Views\\LKPC\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Demo3\\TS\\Views\\HSX\\Edit.cshtml",
+      "TargetPath": "Views\\HSX\\Edit.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15676,6 +15781,51 @@
     {
       "FilePath": "c:\\Demo3\\TS\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Demo3\\TS\\Views\\GiaTien\\Details.cshtml",
+      "TargetPath": "Views\\GiaTien\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Demo3\\TS\\Views\\TinhNang\\Details.cshtml",
+      "TargetPath": "Views\\TinhNang\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Demo3\\TS\\Views\\HSX\\Details.cshtml",
+      "TargetPath": "Views\\HSX\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Demo3\\TS\\Views\\LinhKienPC\\Edit.cshtml",
+      "TargetPath": "Views\\LinhKienPC\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Demo3\\TS\\Views\\LinhKienPC\\Index.cshtml",
+      "TargetPath": "Views\\LinhKienPC\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Demo3\\TS\\Views\\LKPC\\Index.cshtml",
+      "TargetPath": "Views\\LKPC\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Demo3\\TS\\Views\\LinhKienPC\\Delete.cshtml",
+      "TargetPath": "Views\\LinhKienPC\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Demo3\\TS\\Views\\LKPC\\Delete.cshtml",
+      "TargetPath": "Views\\LKPC\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Demo3\\TS\\Views\\HSX\\Delete.cshtml",
+      "TargetPath": "Views\\HSX\\Delete.cshtml",
       "FileKind": "mvc"
     }
   ],
